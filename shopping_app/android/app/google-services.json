@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203556250411",
+    "project_id": "ecomerseapp-616e3",
+    "storage_bucket": "ecomerseapp-616e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203556250411:android:1eb70f7ee7b57e00075b6e",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7hBYgFURgQDZNCbZxKEwEUjeDBDR18E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
